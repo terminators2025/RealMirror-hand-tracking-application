@@ -1,4 +1,5 @@
-# RealMirror-hand-tracking
+# RealMirror-hand-tracking-application
+
 This repository contains the APK files required for the hand tracking teleoperation functionality used on the RealMirror platform. 
 
 **[Dependency Notes]**
